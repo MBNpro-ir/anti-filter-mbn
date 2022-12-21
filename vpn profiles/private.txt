@@ -1,0 +1,7 @@
+vless://ca84cb3f-750f-429b-b44b-47e2c60b2458@ss.epiccenterjadidbarayesakht.tk:443?sni=ss.epiccenterjadidbarayesakht.tk&security=tls&type=ws&path=/okxvws&host=ss.epiccenterjadidbarayesakht.tk#1
+vless://a0e652a5-ab9f-4d04-a6bc-a827b640ccfe@x1.epiccenterjadidbarayesakht.tk:443?sni=x1.epiccenterjadidbarayesakht.tk&security=tls&type=tcp#2
+vless://a0e652a5-ab9f-4d04-a6bc-a827b640ccfe@x1.epiccenterjadidbarayesakht.tk:443?sni=x1.epiccenterjadidbarayesakht.tk&security=tls&type=tcp#3
+vless://a0e652a5-ab9f-4d04-a6bc-a827b640ccfe@x1.epiccenterjadidbarayesakht.tk:443?sni=x1.epiccenterjadidbarayesakht.tk&security=tls&type=ws&path=/lqvnws&host=x1.epiccenterjadidbarayesakht.tk#4
+vmess://ewogICAgImFkZCI6ICJ4MS5lcGljY2VudGVyamFkaWRiYXJheWVzYWtodC50ayIsCiAgICAiYWlkIjogIjAiLAogICAgImhvc3QiOiAieDEuZXBpY2NlbnRlcmphZGlkYmFyYXllc2FraHQudGsiLAogICAgImlkIjogImEwZTY1MmE1LWFiOWYtNGQwNC1hNmJjLWE4MjdiNjQwY2NmZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9scXZudndzIiwKICAgICJwb3J0IjogIjQ0MyIsCiAgICAicHMiOiAiNSIsCiAgICAic2N5IjogImF1dG8iLAogICAgInNuaSI6ICJ4MS5lcGljY2VudGVyamFkaWRiYXJheWVzYWtodC50ayIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICIiLAogICAgInYiOiAiMiIKfQo=
+vless://a0e652a5-ab9f-4d04-a6bc-a827b640ccfe@x1.epiccenterjadidbarayesakht.tk:443?sni=x1.epiccenterjadidbarayesakht.tk&security=tls&type=grpc&serviceName=lqvngrpc#6
+trojan://a0e652a5-ab9f-4d04-a6bc-a827b640ccfe@x1.epiccenterjadidbarayesakht.tk:443?sni=x1.epiccenterjadidbarayesakht.tk&security=tls&type=tcp#7
