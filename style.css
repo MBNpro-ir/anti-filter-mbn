@@ -69,6 +69,28 @@ section {
   background-image: url(/waw1.svg);
 }
 
-.waw2 { 
+.waw2 {
   background-image: url(/waw2.svg);
+}
+
+#mybtn {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: #2d033b;
+  color:aliceblue;
+  padding: 15px;
+  border-radius: 15px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 0.2s;
+  display: none;
+}
+
+#mybtn:hover{
+  background-color: black;
+  transition: 0.2s;
 }
