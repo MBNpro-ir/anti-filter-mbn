@@ -8,6 +8,11 @@ h1 {
   font-family: "Cairo Play", cursive;
 }
 
+h1 img {
+  width: 4%;
+  border-radius: 10px;
+}
+
 .d-flex {
   color: rgb(221, 221, 221);
   text-decoration: none;
