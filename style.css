@@ -81,6 +81,10 @@ section {
   background: #c147e9;
 }
 
+.pink4{
+  background: #1d0d22;
+}
+
 .waw {
   position: absolute;
   top: 0;
@@ -115,6 +119,14 @@ section {
 
 .waw2 {
   background-image: url(/waw2.svg);
+}
+
+.waw3 {
+  background-image: url(/waw3.svg);
+}
+
+.waw4 {
+  background-image: url(/waw4.svg);
 }
 
 #mybtn {
