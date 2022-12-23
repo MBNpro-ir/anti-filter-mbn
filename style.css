@@ -4,6 +4,10 @@
   font-family: "Cairo Play", cursive;
 }
 
+h1 {
+  font-family: "Cairo Play", cursive;
+}
+
 .d-flex {
   color: rgb(221, 221, 221);
   text-decoration: none;
@@ -81,7 +85,7 @@ section {
   border: none;
   outline: none;
   background-color: #2d033b;
-  color:aliceblue;
+  color: aliceblue;
   padding: 15px;
   border-radius: 15px;
   font-size: 18px;
@@ -90,7 +94,7 @@ section {
   display: none;
 }
 
-#mybtn:hover{
+#mybtn:hover {
   background-color: black;
   transition: 0.2s;
 }
