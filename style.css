@@ -1,5 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Cairo+Play:wght@1000&display=swap");
 
+* {
+  transition: 0.3;
+}
+
+html {
+  transition: 0.3s;
+  scroll-behavior: smooth;
+}
+
 .navbar {
   font-family: "Cairo Play", cursive;
 }
@@ -8,10 +17,31 @@ h1 {
   font-family: "Cairo Play", cursive;
 }
 
+h2 {
+  font-family: "Cairo Play", cursive;
+}
+
 h1 img {
   width: 4%;
   border-radius: 10px;
 }
+
+h2 img {
+  width: 4%;
+  border-radius: 10px;
+}
+
+h2 {
+  color: rgb(221, 221, 221);
+  text-decoration: none;
+  transition: 0.3s;
+}
+h2:hover {
+  color: rgb(0, 217, 255);
+  text-decoration: none;
+  transition: 0.3s;
+}
+
 
 .d-flex {
   color: rgb(221, 221, 221);
