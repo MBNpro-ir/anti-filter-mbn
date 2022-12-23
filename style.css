@@ -85,6 +85,10 @@ section {
   background: #1d0d22;
 }
 
+.pink5{
+  background: #000000;
+}
+
 .waw {
   position: absolute;
   top: 0;
@@ -113,6 +117,22 @@ section {
   background-size: cover;
 }
 
+.spacer2 {
+  aspect-ratio: 900/100;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.spacer3 {
+  aspect-ratio: 900/300;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 .waw1 {
   background-image: url(/waw1.svg);
 }
@@ -127,6 +147,18 @@ section {
 
 .waw4 {
   background-image: url(/waw4.svg);
+}
+
+.waw5 {
+  background-image: url(/bg6.svg);
+}
+
+.waw6 {
+  background-image: url(/waw6.svg);
+}
+
+.last {
+  background-image: url(/last.svg);
 }
 
 #mybtn {
