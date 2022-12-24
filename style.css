@@ -49,15 +49,19 @@ h2:hover {
   transition: 0.3s;
 }
 
-.col {
+.cotainer .col {
+  box-shadow: -1px 1px 51px -7px rgba(0, 0, 0, 1);
+  -webkit-box-shadow: -1px 1px 51px -7px rgba(0, 0, 0, 1);
+  -moz-box-shadow: -1px 1px 51px -7px rgba(0, 0, 0, 1);
+  background-color: #1b0229;
   font-size: smaller;
   padding-top: 20px;
   padding-bottom: 50px;
 }
 
-.pink4 img {
-  min-width: 50%;
-  max-width: 50%;
+img.gif {
+  min-width: 100%;
+  max-width: 100%;
 }
 
 .pink4 .blue {
@@ -123,10 +127,6 @@ section {
 
 .textbox2 {
   text-align: left;
-}
-
-.textbox3 {
-  text-align: right;
 }
 
 .waw {
