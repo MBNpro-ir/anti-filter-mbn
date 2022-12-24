@@ -1,17 +1,14 @@
-const mybutton = document.getElementById('mybtn')
+function myFunction() {
+  // Get the text field
+  var copyText = document.getElementById("myInput");
 
-window.onscroll = function() {scrollfunction()};
+  // Select the text field
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
 
-function scrollfunction () {
-    if (document.body.scrollTop) > 100 || document.documentElement > 100) {
-        mybutton.style.display = "block";
-    }
-    else {
-        mybutton.style.display = "none";
-    }
-}
+   // Copy the text inside the text field
+  navigator.clipboard.writeText(copyText.value);
 
-mybutton.addEventListener('click'), () => {
-    document.body.scrollTop =0;
-    document.documentElement.scrollTop = 0;
+  // Alert the copied text
+  alert("Copied the text: " + copyText.value);
 }

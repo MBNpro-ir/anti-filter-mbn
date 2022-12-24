@@ -161,6 +161,10 @@ section {
   background-image: url(/last.svg);
 }
 
+.section .button {
+  margin-top: 10px;
+}
+
 #mybtn {
   position: fixed;
   bottom: 20px;
