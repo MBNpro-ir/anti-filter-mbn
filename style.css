@@ -1,8 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Cairo+Play:wght@1000&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Vazirmatn:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alumni+Sans:ital,wght@1,600&display=swap");
 
 html {
   transition: 0.3s;
   scroll-behavior: smooth;
+}
+
+p {
+  font-family: "Josefin Sans", sans-serif, "Vazirmatn", sans-serif;
+  font-size: large;
+  padding-top: 16px;
 }
 
 .navbar {
@@ -28,11 +37,12 @@ h2 img {
 }
 
 h2 {
-  font-family: "Cairo Play", cursive;
+  font-family: "Alumni Sans", sans-serif;
   color: rgb(221, 221, 221);
   text-decoration: none;
   transition: 0.3s;
 }
+
 h2:hover {
   color: rgb(0, 217, 255);
   text-decoration: none;
@@ -78,7 +88,7 @@ h2:hover {
 }
 
 .cotainer {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 5px;
   color: aliceblue;
 }
 
@@ -195,8 +205,8 @@ section {
   margin-top: 10px;
 }
 
-button {
-  padding: 5px;
+.button {
+  font-size: large;
   border-radius: 55px;
   background: rgb(26, 8, 90);
   color: aliceblue;
