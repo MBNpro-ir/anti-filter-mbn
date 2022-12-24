@@ -46,7 +46,7 @@ h2:hover {
 }
 
 .pink4 img {
-  min-width: 40%;
+  min-width: 50%;
   max-width: 50%;
 }
 
@@ -105,6 +105,18 @@ section {
 
 .pink5 {
   background: #000000;
+}
+
+.textbox {
+  text-align: right;
+}
+
+.textbox2 {
+  text-align: left;
+}
+
+.textbox3 {
+  text-align: right;
 }
 
 .waw {
