@@ -45,6 +45,27 @@ h2:hover {
   padding-bottom: 50px;
 }
 
+.pink4 img {
+  min-width: 40%;
+  max-width: 50%;
+}
+
+.pink4 .blue {
+  color: aqua;
+}
+
+.pink4 .orange {
+  color: orange;
+}
+
+.pink4 .red {
+  color: rgb(255, 124, 124);
+}
+
+.pink4 .redd {
+  color: rgb(255, 8, 8);
+}
+
 .d-flex {
   color: rgb(221, 221, 221);
   text-decoration: none;
