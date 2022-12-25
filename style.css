@@ -64,24 +64,28 @@ img.gif {
   max-width: 100%;
 }
 
-.pink4 .blue {
+.blue {
   color: aqua;
 }
 
-.pink4 .orange {
+.orange {
   color: orange;
 }
 
-.pink4 .red {
+.red {
   color: rgb(255, 124, 124);
 }
 
-.pink4 .redd {
+.redd {
   color: rgb(255, 8, 8);
 }
 
 .red {
   color: red;
+}
+
+.green {
+  color: rgb(182, 255, 182);
 }
 
 .d-flex {
