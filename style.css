@@ -80,6 +80,10 @@ img.gif {
   color: rgb(255, 8, 8);
 }
 
+.red {
+  color: red;
+}
+
 .d-flex {
   color: rgb(221, 221, 221);
   text-decoration: none;
