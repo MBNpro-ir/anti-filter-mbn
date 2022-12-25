@@ -154,6 +154,11 @@ section {
   height: 52px;
 }
 
+.row-dns .col-md-auto img{
+  min-width: 0%;
+  max-width: 50%;
+}
+
 .waw .shape-fill {
   fill: #2d033b;
 }
