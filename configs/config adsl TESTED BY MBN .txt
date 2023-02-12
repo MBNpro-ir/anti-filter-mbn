@@ -1,10 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.49:801#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.49-1173
-trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@129.146.242.130:443?security=tls&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-129.146.242.130-1913
-trojan://011eb011-c68e-4f92-80eb-f9bbef707bef@us2.trojanvh.xyz:80?security=tls&type=tcp&headerType=none#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.52:809#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.52-1167
-trojan://3r372@tj786.37927.online:443?security=tls&type=tcp&headerType=none#%40vpnserverrr%F0%9F%87%BA%F0%9F%87%B8
-trojan://011eb011-c68e-4f92-80eb-f9bbef707bef@us2.trojanvh.xyz:80?security=tls&sni=us2.trojanvh.xyz&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-135.148.149.209-0168
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@167.88.61.236:802#%F0%9F%87%B9%F0%9F%87%B7%40vpnserverrr
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@20.106.103.230:443?security=tls&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-20.106.103.230-0286
-trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.71.175-7497
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-hk-7.mielink-dns2.com:443?security=tls&sni=paydiu.com&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0HK-103.135.103.132-25295
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwNCiAgImFkZCI6ICIxODguMTE0Ljk2LjIiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMWE0MjU0YjQtODI5Yy00YmY0LTkwMWItYmY4MTcyYzMwMWZkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJoc3RyMTY3NTg4OTEwNjA0My5haWRhcHAuc2JzIiwNCiAgInBhdGgiOiAiL2FpZGFwcC5zYnN2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiaHN0cjE2NzU4ODkxMDYwNDMuYWlkYXBwLnNicyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.44.176-1147
+trojan://xxoo@138.124.183.222:443?security=tls&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-138.124.183.222-0143
